@@ -1,4 +1,4 @@
-# 
+# Último ObjectDetect script. Descarga e instala con modo sin conexión y guía paso a paso — rápido, seguro y fácil de usar.
 
 
 
